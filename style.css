@@ -52,7 +52,7 @@ border: 2px solid #ad343e;
 }
 header{
 	min-height: 100vh;
-	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)),url(img/header-bcg.jpeg)center/cover fixed no-repeat;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)),url(header-bcg.jpeg)center/cover fixed no-repeat;
 display: flex;
 flex-direction: column;
 
@@ -131,7 +131,7 @@ nav{
 /*++++++++++++++++++++++section start +++++++++++++*/
 .services{
 	min-height:80vh;
-	background: url(img/services-bcg.jpeg)center/cover fixed no-repeat;
+	background: url(services-bcg.jpeg)center/cover fixed no-repeat;
 	display: flex;
 	align-items: center;
 	
@@ -290,7 +290,7 @@ transition:width 2s ease;
 
 .contact {
 	min-height: 80vh;
-	background: url(img/about-bcg.jpeg) center/cover fixed no-repeat;
+	background: url(about-bcg.jpeg) center/cover fixed no-repeat;
 	/*  3last*/
 	display: flex;
 	justify-content: center;
